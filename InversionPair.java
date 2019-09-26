@@ -66,10 +66,5 @@ class InversionPair
         return n;
     }
 
-    public static void main(String[] args)
-    {
-        int[] arr = {1,5,4,6,7,3,2};
-        int n = inverse(arr,0,6);
-        System.out.println(n);
-    }
+   
 }
